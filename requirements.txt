@@ -1,0 +1,6 @@
+langchain
+PyPDF
+python-dotenv
+streamlit
+faiss-cpu
+streamlit-extras
